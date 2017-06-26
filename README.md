@@ -1,9 +1,10 @@
 # LooTTier
 RPG Argento 100%
 
-
+-------------------
  CONCEPTO DEL JUEGO
- 
+-------------------
+
  LooTTier es un juego rol playing game (RPG) con cámara isométrica 2D.
  
  Gráficos estilo cómic. Ej: Pixel Noir
